@@ -44,7 +44,7 @@
 
 ![image](https://user-images.githubusercontent.com/123749462/225006831-2993f2d6-6244-4698-9c9b-4eea4c9f0c49.png)
 
-- Cliquer sur CSV Reader > Column Filter > Configure 
+- Cliquer sur CSV Reader > Column Filter > Configure
 
 - Sélectionnez les colonnes "country", "date" et "amount". 
 
