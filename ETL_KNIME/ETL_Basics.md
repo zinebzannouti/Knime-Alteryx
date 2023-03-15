@@ -31,6 +31,18 @@
 ![image](https://user-images.githubusercontent.com/123749462/225291354-6f9d6047-3db1-4343-970b-cde2a076a561.png)
 
 
+- Ajouter une connexion entre le noeud CSV Reader et le noeud String to Date&Time :
+
+![image](https://user-images.githubusercontent.com/123749462/225295569-57293c4f-3a9b-449d-9604-43c092a8778a.png)
+
+- Cliquer sur le noeud String to Date&Time > Boutton Droit > Configure :
+
+![image](https://user-images.githubusercontent.com/123749462/225298033-ebb729cc-11ee-4004-8bad-3673ebdb76a3.png)
+
+- Cliquer sur le noeud String to Date&Time > Boutton Droit > Execute :
+
+![image](https://user-images.githubusercontent.com/123749462/225298909-9a1f09d1-f529-476c-8d81-aba97cef7ea0.png)
+
 - 
 
 
