@@ -134,6 +134,53 @@
 - Cliquer sur le noeud Row Filter > Boutton Droit > Execute :
 
 
+![image](https://user-images.githubusercontent.com/123749462/225325902-138f31b7-4bf8-49b7-9070-5b154716b6a8.png)
+
+- Drag and Drop un autre noeud Row Filter :
+
+![image](https://user-images.githubusercontent.com/123749462/225326373-d7b4e73d-a3d7-410d-b638-e092029324af.png)
+
+- Ajouter une connexion entre le premier Row Filter et le deuxième Row Filter : 
+
+![image](https://user-images.githubusercontent.com/123749462/225326629-b921a958-5076-4936-96a8-9c199b955db7.png)
+
+- Cliquer sur le noeud Row Filter > Boutton Droit > Configure :
+
+![image](https://user-images.githubusercontent.com/123749462/225327091-1eaaba4e-30c9-413c-84a1-c6f2ad18b73b.png)
+
+- Cliquer sur le noeud Row Filter > Boutton Droit > Execute :
+
+![image](https://user-images.githubusercontent.com/123749462/225327719-81f1ebaf-aaf9-4347-958c-1608a15d61c7.png)
+
+- Drag and Drop un autre noeud Row Filter : 
+
+![image](https://user-images.githubusercontent.com/123749462/225328315-2412d6f9-43d3-4246-851d-8d3fa8480963.png)
+
+- Ajouter une Connexion entre le Noeud GroupBy et le noeud Row Filter : 
+
+![image](https://user-images.githubusercontent.com/123749462/225335411-ae465f4a-6748-416a-8720-df442f7c697b.png)
+
+- Cliquer sur le noeud Row Filter > Boutton Droit > Configure :
+
+![image](https://user-images.githubusercontent.com/123749462/225329502-b5985e7c-e26e-412e-98e7-d434d09976d0.png)
+
+- Cliquer sur le noeud Row Filter > Boutton Droit > Execute :
+![image](https://user-images.githubusercontent.com/123749462/225335750-478b20a2-8a87-4ec5-9e78-d8db582f33bb.png)
+
+
+- Drag and Drop un autre nouw Row Filter : 
+
+![image](https://user-images.githubusercontent.com/123749462/225336015-3ba13c13-a1dd-454d-8145-a024e7e52aa1.png)
+
+- Ajouter une connexion entre le troisième Row Filter et le quatrième Row Filter :
+
+![image](https://user-images.githubusercontent.com/123749462/225336396-ae548be0-7fc6-4d2c-b5a0-37a95416882d.png)
+
+
+- 
+
+
+
 
 
 
