@@ -6,5 +6,5 @@
 
 - ## **Travail à faire :**
 
-- Essayez de réaliser ce workflow avec la configuration de chaque nœud en fonction de ce qui est demandé dans le graphe ci-dessus et réalise ce workflow .
+- Essayez de réaliser ce workflow avec la configuration de chaque nœud en fonction de ce qui est demandé dans le graphe ci-dessus et exécutez ce workflow .
 - Pour chaque éxecution de chaque Noeud : prendre un screenshot du Node Monitor .
