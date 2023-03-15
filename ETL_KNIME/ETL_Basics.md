@@ -63,7 +63,62 @@
 
 ![image](https://user-images.githubusercontent.com/123749462/225304506-ee5caf6e-24c6-4a08-a77e-c470693c9867.png)
 
-- Cliquer sur le noeud Column Filter > Boutton Droit > Configure :
+- Ajouter une connexion entre le noeud Sorter et le noeud Column Filter :
+
+![image](https://user-images.githubusercontent.com/123749462/225306583-f512db41-d867-466d-995a-e97f4f40c21e.png)
+
+
+- Cliquer sur le noeud Column Filter > Boutton Droit > Configure :(Exclure le colonne "card")
+
+![image](https://user-images.githubusercontent.com/123749462/225306853-f2ba632b-536e-45ac-bc2b-df77499a6121.png)
+
+- Cliquer sur le noeud Column Filter > Boutton Droit > Execute :
+
+![image](https://user-images.githubusercontent.com/123749462/225307220-e9b7ce14-e05f-4eb3-81bd-4decefa5a5f3.png)
+
+- Drag and Drop le noeud GroupBy :
+
+![image](https://user-images.githubusercontent.com/123749462/225307740-e5d701ba-22c5-4452-91c9-dc8bb57e2f0d.png)
+
+- Ajouter une connexion entre le noeud Column Filter et le noeud GroupBy :
+
+![image](https://user-images.githubusercontent.com/123749462/225307979-6d6f667b-82ac-4c25-a2a8-f59ee142a6d5.png)
+
+- Cliquer sur le noeud GroupBy > Boutton Droit > Configure :(GroupeBy le colonne "Cust_ID") :
+
+![image](https://user-images.githubusercontent.com/123749462/225308536-9e3f8559-9229-440e-ae98-3271c9e7cd80.png)
+
+![image](https://user-images.githubusercontent.com/123749462/225311161-c6ea7336-65da-4f9c-b9a0-78972f02bb49.png)
+
+
+- Cliquer sur le noeud GroupBy > Boutton Droit > Execute :
+
+![image](https://user-images.githubusercontent.com/123749462/225311586-dc0fa5d1-5f57-418d-8a78-ea53ebbeef47.png)
+
+- Drag and Drop le noeud GroupBy :
+
+![image](https://user-images.githubusercontent.com/123749462/225307740-e5d701ba-22c5-4452-91c9-dc8bb57e2f0d.png)
+
+- Ajouter une connexion entre le noeud Column Filter et le noeud GroupBy :
+
+![image](https://user-images.githubusercontent.com/123749462/225311846-3471d930-9518-4a75-beb5-f129b88c4b7a.png)
+
+- Cliquer sur le noeud GroupBy > Boutton Droit > Configure :
+
+
+![image](https://user-images.githubusercontent.com/123749462/225312307-1616fdbd-d1e8-4d49-b797-cd280eeac335.png)
+
+
+![image](https://user-images.githubusercontent.com/123749462/225312645-b33c19af-1aa4-4235-82ae-91f75c8d2652.png)
+
+
+- - Cliquer sur le noeud GroupBy > Boutton Droit > Execute :
+
+
+
+
+
+
 
 
 
