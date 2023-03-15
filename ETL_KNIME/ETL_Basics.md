@@ -239,11 +239,13 @@
 
 - Cliquer sur le noeud CSV Writer > Boutton Droit > Configure :
 
-![image](https://user-images.githubusercontent.com/123749462/225350264-fb3283e2-a565-49a6-a878-2bcedf0b720b.png)
+![image](https://user-images.githubusercontent.com/123749462/225353088-ba7c0306-3238-4175-9316-cbe37a34ea1c.png)
 
 - Cliquer sur le noeud CSV Writer > Boutton Droit > Execute :
 
 ![image](https://user-images.githubusercontent.com/123749462/225350454-830e94b5-0347-4551-8373-80b3d789e6fa.png)
+
+- Vous pouvez maintenant voir le fichier qu'on a obtenu comme Output dans le chemain que vous avez spécifier
 
 
 
