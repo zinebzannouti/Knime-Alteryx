@@ -116,6 +116,22 @@
 
 ![image](https://user-images.githubusercontent.com/123749462/225313468-ded051d4-b2eb-44ec-8914-58e9e1e2c068.png)
 
+- Drag and Drop le noeud Row Filter : 
+
+
+![image](https://user-images.githubusercontent.com/123749462/225317780-7a435093-52f7-463d-9272-007c12f57fc5.png)
+
+- Ajouter une connexion entre le premier noeud de GroupBy et le Noeud Row Filter :
+
+![image](https://user-images.githubusercontent.com/123749462/225318596-2790b36a-19ad-44f4-b4a9-5751af7fc1ed.png)
+
+
+- Cliquer sur le noeud Row Filter > Boutton Droit > Configure :
+
+![image](https://user-images.githubusercontent.com/123749462/225322968-c8b29968-a15e-41a9-ae51-d00d8005f774.png)
+  
+
+- Cliquer sur le noeud Row Filter > Boutton Droit > Execute :
 
 
 
