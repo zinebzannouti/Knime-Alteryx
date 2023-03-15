@@ -112,7 +112,10 @@
 ![image](https://user-images.githubusercontent.com/123749462/225312645-b33c19af-1aa4-4235-82ae-91f75c8d2652.png)
 
 
-- - Cliquer sur le noeud GroupBy > Boutton Droit > Execute :
+- Cliquer sur le noeud GroupBy > Boutton Droit > Execute :
+
+![image](https://user-images.githubusercontent.com/123749462/225313468-ded051d4-b2eb-44ec-8914-58e9e1e2c068.png)
+
 
 
 
