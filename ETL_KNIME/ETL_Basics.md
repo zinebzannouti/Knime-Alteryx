@@ -43,6 +43,30 @@
 
 ![image](https://user-images.githubusercontent.com/123749462/225298909-9a1f09d1-f529-476c-8d81-aba97cef7ea0.png)
 
-- 
+- Drag and Drop le noeud Sorter :
+
+![image](https://user-images.githubusercontent.com/123749462/225300642-125ed89b-1fa0-4ffd-8b2f-30981efd41c2.png)
+
+- Ajouter une connexion entre le noeud String to Date&Time et le noeud Sorter :
+
+![image](https://user-images.githubusercontent.com/123749462/225300944-a817956e-5043-4917-8f92-d61a7b1c547c.png)
+
+- Cliquer sur le noeud Sorter > Boutton Droit > Configure :
+
+![image](https://user-images.githubusercontent.com/123749462/225301516-adb126c5-5b34-4890-b0a4-21b2fc835fa0.png)
+
+- Cliquer sur le noeud Sorter > Boutton Droit > Execute :
+
+![image](https://user-images.githubusercontent.com/123749462/225303453-bd52e0eb-f612-41c3-90a0-4814e56d985f.png)
+
+- Drag and Drop le noeud Column Filter : 
+
+![image](https://user-images.githubusercontent.com/123749462/225304506-ee5caf6e-24c6-4a08-a77e-c470693c9867.png)
+
+- Cliquer sur le noeud Column Filter > Boutton Droit > Configure :
+
+
+
+
 
 
