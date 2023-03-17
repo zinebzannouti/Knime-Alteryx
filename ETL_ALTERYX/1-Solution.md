@@ -19,4 +19,14 @@
 
 ![image](https://user-images.githubusercontent.com/123749462/225891232-ce2f7df2-214a-4209-b62d-0045378a940f.png)
 
+- Cliquer sur Files > Select file :
+
+![image](https://user-images.githubusercontent.com/123749462/225898050-c26d8aff-4c59-4b44-acc0-58a297a3621b.png)
+
+
+- Sélectionner hotel_booking.csv > cliquer sur ouvrir :
+
+![image](https://user-images.githubusercontent.com/123749462/225898300-1d611080-5a1d-4cd3-bf60-6dfd4c2647ff.png)
+
+
 
