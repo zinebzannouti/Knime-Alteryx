@@ -10,3 +10,6 @@
 
 - Essayez de réaliser ce workflow avec la configuration de chaque nœud en fonction de ce qui est demandé dans le graphe ci-dessus et exécutez ce workflow .
 - Pour chaque éxecution de chaque Noeud : prendre un screenshot du Node Monitor .
+- Part 1 : Accèes aux données
+- Part 2 : Prétraitement des données
+- Part 3 : Visualisation des données
